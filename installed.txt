@@ -1,6 +1,6 @@
 [{
     "lock" : "https://rawcdn.githack.com/pamanbobb/sofia-dan-anggie/a2020439093529a591e2e78e3e4f7134bd653e2d/okey.html",
     "html" : "https://rawcdn.githack.com/pamanbobb/sofia-dan-anggie/514176de7d10c579ee1eec1050211a7a694392c3/oXfdt56llHysrt8sj.html",
-    "mobile" : "https://rawcdn.githack.com/pamanbobb/sofia-dan-anggie/514176de7d10c579ee1eec1050211a7a694392c3/oXfdt56llHysrt8sj.html",
+    "mobile" : "https://rawcdn.githack.com/pamanbobb/sofia-dan-anggie/a2020439093529a591e2e78e3e4f7134bd653e2d/093xcUUislWep.html",
     "script" : "https://rawcdn.githack.com/pamanbobb/sofia-dan-anggie/a2020439093529a591e2e78e3e4f7134bd653e2d/0238701287128749.js"
 }]
